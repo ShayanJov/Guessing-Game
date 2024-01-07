@@ -1,22 +1,32 @@
 [
   {
+    "player_name": "sample_one",
+    "player_best_score": 1,
+    "game_mode": "easy"
+  },
+  {
     "player_name": "shayan",
-    "player_score": 1
+    "player_best_score": 1,
+    "game_mode": "easy"
+  },
+    {
+    "player_name": "shayan",
+    "player_best_score": 0,
+    "game_mode": "normal"
   },
   {
-    "player_name": "mahsa",
-    "player_score": 2
+    "player_name": "majid",
+    "player_best_score": 1,
+    "game_mode": "hard"
   },
   {
-    "player_name": "mahdi",
-    "player_score": 0
+    "player_name": "shayan",
+    "player_best_score": 1,
+    "game_mode": "hard"
   },
   {
-    "player_name": "asal",
-    "player_score": 1
-  },
-  {
-    "player_name": "abol",
-    "player_score": 0
+    "player_name": "shayan",
+    "player_best_score": 0,
+    "game_mode": "classic"
   }
 ]
