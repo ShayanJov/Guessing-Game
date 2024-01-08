@@ -1,98 +1,122 @@
 [
-  {
-    "question": "I am red, round, and I have a sweet taste. What am I?",
-    "answer": "Apple"
-  },
-  {
-    "question": "I am a long, curved fruit with a yellow or green skin and soft, sweet flesh. What am I?",
-    "answer": "Banana"
-  },
-  {
-    "question": "I am a long, thin, orange root vegetable with a crisp texture. What am I?",
-    "answer": "Carrot"
-  },
-  {
-    "question": "I am a four-legged mammal with fur, a wagging tail, and a friendly disposition. What am I?",
-    "answer": "Dog"
-  },
-  {
-    "question": "I am an oval-shaped, white, or brown food item that comes from chickens. What am I?",
-    "answer": "Egg"
-  },
-  {
-    "question": "I am a plant with brightly colored petals and a sweet fragrance, often given as a gift. What am I?",
-    "answer": "Flower"
-  },
-  {
-    "question": "I am a musical instrument with six strings and a hollow body, used for playing a variety of music. What am I?",
-    "answer": "Guitar"
-  },
-  {
-    "question": "I am a head covering worn for warmth, protection from the sun or rain, or as a fashion accessory. What am I?",
-    "answer": "Hat"
-  },
-  {
-    "question": "I am a sweet, creamy frozen dessert made from milk, cream, and sugar. What am I?",
-    "answer": "Ice cream"
-  },
-  {
-    "question": "I am a type of clothing worn on the upper body, typically made of a warm material. What am I?",
-    "answer": "Jacket"
-  },
-  {
-    "question": "I am a marsupial native to Australia, known for my powerful hind legs and tail used for hopping. What am I?",
-    "answer": "Kangaroo"
-  },
-  {
-    "question": "I am a small, round citrus fruit with a sour, acidic taste and a bright yellow skin. What am I?",
-    "answer": "Lemon"
-  },
-  {
-    "question": "I am a natural satellite of the Earth, visible at night as a bright, round object in the sky. What am I?",
-    "answer": "Moon"
-  },
-  {
-    "question": "I am a printed publication containing news, articles, and information, often distributed daily. What am I?",
-    "answer": "Newspaper"
-  },
-  {
-    "question": "I am a vast body of saltwater that covers more than 70% of the Earth's surface. What am I?",
-    "answer": "Ocean"
-  },
-  {
-    "question": "I am a writing instrument with a small, replaceable ink cartridge, used for writing on paper. What am I?",
-    "answer": "Pen"
-  },
-  {
-    "question": "I am a type of bedding made of two layers of fabric stitched together with padding in between. What am I?",
-    "answer": "Quilt"
-  },
-  {
-    "question": "I am a mammal with a distinctive black and white face, known for my intelligence and adaptability. What am I?",
-    "answer": "Raccoon"
-  },
-  {
-    "question": "I am a tall, yellow-flowered plant with large, ray-like petals and a dark central disk. What am I?",
-    "answer": "Sunflower"
-  },
-  {
-    "question": "I am a piece of furniture with a flat top and one or more legs, used for supporting objects or holding things. What am I?",
-    "answer": "Table"
-  },
-  {
-    "question": "I am a portable, collapsible canopy supported on a central pole, used for protection from rain or sun. What am I?",
-    "answer": "Umbrella"
-  },
-  {
-    "question": "I am a stringed musical instrument with four strings, held between the chin and shoulder and played with a bow. What am I?",
-    "answer": "Violin"
-  },
-  {
-    "question": "I am a small timepiece worn on the wrist or carried in a pocket, used for keeping track of time. What am I?",
-    "answer": "Watch"
-  },
-  {
-    "question": "I am a musical instrument consisting of a set of wooden bars that are struck with a mallet to produce musical tones. What am I?",
-    "answer": "Xylophone"
-  }
+    {
+        "question": "I am red, round, and I have a sweet taste. What am I?",
+        "answer": "Apple",
+        "emoji": "🍏"
+    },
+    {
+        "question": "I am a long, curved fruit with a yellow or green skin and soft, sweet flesh. What am I?",
+        "answer": "Banana",
+        "emoji": "🍌"
+    },
+    {
+        "question": "I am a long, thin, orange root vegetable with a crisp texture. What am I?",
+        "answer": "Carrot",
+        "emoji": "🥕"
+    },
+    {
+        "question": "I am a four-legged mammal with fur, a wagging tail, and a friendly disposition. What am I?",
+        "answer": "Dog",
+        "emoji": "🐾"
+    },
+    {
+        "question": "I am an oval-shaped, white, or brown food item that comes from chickens. What am I?",
+        "answer": "Egg",
+        "emoji": "🥚"
+    },
+    {
+        "question": "I am a plant with brightly colored petals and a sweet fragrance, often given as a gift. What am I?",
+        "answer": "Flower",
+        "emoji": "💐"
+    },
+    {
+        "question": "I am a musical instrument with six strings and a hollow body, used for playing a variety of music. What am I?",
+        "answer": "Guitar",
+        "emoji": "🎸"
+    },
+    {
+        "question": "I am a head covering worn for warmth, protection from the sun or rain, or as a fashion accessory. What am I?",
+        "answer": "Hat",
+        "emoji": "🎩"
+    },
+    {
+        "question": "I am a sweet, creamy frozen dessert made from milk, cream, and sugar. What am I?",
+        "answer": "Ice cream",
+        "emoji": "🍨"
+    },
+    {
+        "question": "I am a type of clothing worn on the upper body, typically made of a warm material. What am I?",
+        "answer": "Jacket",
+        "emoji": "🧥"
+    },
+    {
+        "question": "I am a marsupial native to Australia, known for my powerful hind legs and tail used for hopping. What am I?",
+        "answer": "Kangaroo",
+        "emoji": "🦘"
+    },
+    {
+        "question": "I am a small, round citrus fruit with a sour, acidic taste and a bright yellow skin. What am I?",
+        "answer": "Lemon",
+        "emoji": "🍋"
+    },
+    {
+        "question": "I am a natural satellite of the Earth, visible at night as a bright, round object in the sky. What am I?",
+        "answer": "Moon",
+        "emoji": "🌕"
+    },
+    {
+        "question": "I am a printed publication containing news, articles, and information, often distributed daily. What am I?",
+        "answer": "Newspaper",
+        "emoji": "📰"
+    },
+    {
+        "question": "I am a vast body of saltwater that covers more than 70% of the Earth's surface. What am I?",
+        "answer": "Ocean",
+        "emoji": "🌊"
+    },
+    {
+        "question": "I am a writing instrument with a small, replaceable ink cartridge, used for writing on paper. What am I?",
+        "answer": "Pen",
+        "emoji": "🖊️"
+    },
+    {
+        "question": "I am a type of bedding made of two layers of fabric stitched together with padding in between. What am I?",
+        "answer": "Quilt",
+        "emoji": "🛏️"
+    },
+    {
+        "question": "I am a mammal with a distinctive black and white face, known for my intelligence and adaptability. What am I?",
+        "answer": "Raccoon",
+        "emoji": "🦝"
+    },
+    {
+        "question": "I am a tall, yellow-flowered plant with large, ray-like petals and a dark central disk. What am I?",
+        "answer": "Sunflower",
+        "emoji": "🌻"
+    },
+    {
+        "question": "I am a piece of furniture with a flat top and one or more legs, used for supporting objects or holding things. What am I?",
+        "answer": "Table",
+        "emoji": "🪑"
+    },
+    {
+        "question": "I am a portable, collapsible canopy supported on a central pole, used for protection from rain or sun. What am I?",
+        "answer": "Umbrella",
+        "emoji": "☂️"
+    },
+    {
+        "question": "I am a stringed musical instrument with four strings, held between the chin and shoulder and played with a bow. What am I?",
+        "answer": "Violin",
+        "emoji": "🎻"
+    },
+    {
+        "question": "I am a small timepiece worn on the wrist or carried in a pocket, used for keeping track of time. What am I?",
+        "answer": "Watch",
+        "emoji": "⌚"
+    },
+    {
+        "question": "I am a musical instrument consisting of a set of wooden bars that are struck with a mallet to produce musical tones. What am I?",
+        "answer": "Xylophone",
+        "emoji": "🎹"
+    }
 ]
