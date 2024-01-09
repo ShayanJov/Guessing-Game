@@ -4,15 +4,19 @@ from Classes.login_register_menu import login_register_menu
 
 def install_dependencies():
     try:
-        print("First time on a new computer - installing dependencies.")
-        # Redirect stdout and stderr to subprocess.PIPE to suppress the output
-        subprocess.run(["pip", "install", "-r", "requirements.txt"], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        print("Dependencies installed successfully.")
-        
-        # Create a marker file to indicate that dependencies are installed
-        with open(".installed", "w") as marker_file:
-            pass
-    except subprocess.CalledProcesasError as e:
+        print("Checking if dependencies are already installed.")
+        if not os.path.exists(".installed"):
+            print("First time on a new computer - installing dependencies.")
+            # Redirect stdout and stderr to subprocess.PIPE to suppress the output
+            subprocess.run(["pip", "install", "-r", "requirements.txt"], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            print("Dependencies installed successfully.")
+            
+            # Create a marker file to indicate that dependencies are installed
+            with open(".installed", "w") as marker_file:
+                pass
+        else:
+            print("Dependencies are already installed.")
+    except subprocess.CalledProcessError as e:
         print(f"Error installing dependencies: {e}")
         exit(1)
 
