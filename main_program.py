@@ -4,7 +4,6 @@ from Classes.login_register_menu import login_register_menu
 
 def install_dependencies():
     try:
-        print("Checking if dependencies are already installed.")
         if not os.path.exists(".installed"):
             print("First time on a new computer - installing dependencies.")
             # Redirect stdout and stderr to subprocess.PIPE to suppress the output
